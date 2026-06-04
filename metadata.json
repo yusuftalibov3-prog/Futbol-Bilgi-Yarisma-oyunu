@@ -1,0 +1,6 @@
+{
+  "name": "3D Football Trivia Runner",
+  "description": "A 3D hyper-casual football trivia runner game where players dodge wrong answers and run through correct neon portals to score.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
